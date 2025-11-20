@@ -10,7 +10,7 @@ Johnson Controls Arabia needed visibility into their procurement operations, sup
 - Monitor procurement process accuracy
 - Optimize inventory management strategies
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 - **SQL** - Data extraction, transformation, and view creation from SAP tables
 - **Power BI** - Interactive dashboard development with 25+ calculated KPIs
 - **DAX** - Advanced measures and KPI calculations
